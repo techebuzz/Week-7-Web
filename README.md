@@ -16,4 +16,4 @@ This project showcases CSS3 transitions, animations, and JavaScript functionalit
 - HTML5, CSS3, JavaScript
 
 ##  🌐 Live Website
-[Click here to view ]
+[Click here to view ] https://techebuzz.github.io/Week-7-Web/
